@@ -23,6 +23,7 @@ local BACKGROUND_LOOPING_POINT = 413
 
 local bird = Bird()
 
+
 function love.load()
     love.graphics.setDefaultFilter('nearest', 'nearest')
 
@@ -39,6 +40,8 @@ function love.update(dt)
     backgroundScroll = (backgroundScroll + BACKGROUND_SCROLL_SPEED * dt) % BACKGROUND_LOOPING_POINT
 
     groundScroll = (groundScroll + GROUND_SCROLL_SPEED * dt) % VIRTUAL_WIDTH
+
+    bird:update(dt)
 end
 
 function love.resize(w, h)
