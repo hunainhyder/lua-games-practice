@@ -9,8 +9,10 @@ List of all games are:
 - Flappy Bird
 
 If you want to run these game just download the source code then,
-`cd [game-folder]`
-`love .`
+```
+cd [game-folder]
+love .
+```
 Make sure you have Love2D installed
 
 
