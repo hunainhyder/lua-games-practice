@@ -13,10 +13,10 @@ If you want to run these game just download the source code then,
 cd [game-folder]
 love .
 ```
-Make sure you have [Love2D](https://love2d.org/){:target="_blank"} installed
+Make sure you have [Love2D](https://love2d.org/) installed
 -
 -
 -
 
 > [!NOTE]
-> If you also want to follow the original course visit: [GD50 Official Website](https://cs50.harvard.edu/games/2018/){:target="_blank"}
+> If you also want to follow the original course visit: [GD50 Official Website](https://cs50.harvard.edu/games/2018/)
