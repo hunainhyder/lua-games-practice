@@ -13,7 +13,7 @@ If you want to run these game just download the source code then,
 cd [game-folder]
 love .
 ```
-Make sure you have Love2D installed
+Make sure you have [Love2D](https://love2d.org/) installed
 
 
 > [!NOTE]
