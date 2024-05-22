@@ -6,8 +6,7 @@ It's a beginner level introduction to game development.
 I am using this repo to store games I create along the way for submission.
 
 > [!NOTE]
-> I am using my own custom assets I made in Adobe Illustrator for more practice in 2D Game Design.
-
+> If you also want to follow the original course visit: [GD50 Official Website](https://cs50.harvard.edu/games/2018/)
 List of all games are:
 - Pong
 - Flappy Bird
